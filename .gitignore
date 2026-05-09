@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files - link to Google Drive instead)
+data/raw/
+data/compressed_250kbps/
+data/compressed_1024kbps/
+*.mp4
+*.mkv
+*.avi
+*.webm
+*.pkl
+
+# Models (large files)
+models/saved/*.pth
+models/saved/*.pt
+models/saved/*.h5
+
+# Results (optional - keep figures, skip raw outputs)
+results/metrics/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Google Colab auth
+*.json
+service_account*.json
