@@ -3,8 +3,6 @@
 
 **MSc Research Project | Data Analytics | National College of Ireland**  
 **Author:** Aniket Suryakant Ghadge (x23106786)  
-**Supervisor:** Dr David Hamill  
-**Submitted:** August 2024
 
 ---
 
